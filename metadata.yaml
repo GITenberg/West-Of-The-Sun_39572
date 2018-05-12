@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32078
     wikipedia: http://en.wikipedia.org/wiki/Edgar_Pangborn
 description: Science fiction about a strange planet and its denizens.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39572#West-Of-The-Sun
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2012-04-29'
 gutenberg_type: Text
